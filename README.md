@@ -1,6 +1,6 @@
 # Ansible Role: ansible-role-docker-compose
 
-An "ansible role" that installs [Docker Compose](https://docs.docker.com/compose/) on Linux.
+An *ansible role* that installs [Docker Compose](https://docs.docker.com/compose/) on Linux.
 
 ## Requirements
 
